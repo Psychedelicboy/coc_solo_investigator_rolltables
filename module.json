@@ -55,5 +55,6 @@
     "verified": "12"
   },
   "url": "https://github.com/Psychedelicboy/coc_solo_investigator_rolltables",
-  "manifest": "https://github.com/Psychedelicboy/coc_solo_investigator_rolltables/releases/latest/download/module.json"
+  "manifest": "https://github.com/Psychedelicboy/coc_solo_investigator_rolltables/releases/latest/download/module.json",
+  "download": "https://github.com/Psychedelicboy/coc_solo_investigator_rolltables/releases/latest/download/coc_solo_investigator_rolltables.zip"
 }
