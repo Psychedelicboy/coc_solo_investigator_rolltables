@@ -50,5 +50,7 @@
   "compatibility": {
     "minimum": "11",
     "verified": "12"
-  }
+  },
+  "url": "https://github.com/Psychedelicboy/coc_solo_investigator_rolltables",
+  "manifest": "https://github.com/Psychedelicboy/coc_solo_investigator_rolltables/releases/latest/download/module.json"
 }
