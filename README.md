@@ -7,3 +7,5 @@ In addition to COC, this module can be used in Delta Green.
 The Solo Investigator's Handook was created by Paul Bimler.
 
 ### [Get the book here](https://www.drivethrurpg.com/en/product/266779/The-Solo-Investigators-Handbook)
+
+Plans for future versions include implementation of some sort of UI to make rolling on tables easier and less time-consuming.
