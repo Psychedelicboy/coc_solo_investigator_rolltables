@@ -1,0 +1,114 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Downtime Disturbance",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        80
+      ],
+      "drawn": false,
+      "_id": "r6oxlOtWHrcsmFz9",
+      "text": "You are left undisturbed.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "T8Z6CvqveRmSncbl",
+      "text": "MIld disturbance - a vison, a dream, hearing something. Roll Verbs table for details.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_id": "3f6OpXBI7MGM2oMS",
+      "text": "A potentially shocking disturbance. Go to Dice Roll table.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "aS695ZumNLbHZ773",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "cthqIVdehK3AMstq",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_id": "NB4TkqZDobFJAym3",
+      "text": "Dice Roll",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "3E03wE9aIggaXnqZ",
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721553720735,
+    "modifiedTime": 1721572408434,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100"
+}

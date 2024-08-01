@@ -1,0 +1,377 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Auditory Effect",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "_id": "Jucb5ZeVzPRkCT8o",
+      "text": "Creaking, under floor/ground",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        8
+      ],
+      "drawn": false,
+      "_id": "alMznbz00TwBdFGu",
+      "text": "Whispering, under floor/ground",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        12
+      ],
+      "drawn": false,
+      "_id": "IVBVujZP82DD29B2",
+      "text": "Dripping, in the wall",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        16
+      ],
+      "drawn": false,
+      "_id": "HLopS9DW1HPsdyu6",
+      "text": "Chanting, in the wall",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        20
+      ],
+      "drawn": false,
+      "_id": "TVPlxw8apUih5RC1",
+      "text": "Singing, from outside",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        24
+      ],
+      "drawn": false,
+      "_id": "LwwZgtNQheox1fC3",
+      "text": "Groaning, from outside",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        25,
+        28
+      ],
+      "drawn": false,
+      "_id": "34ehBNyyzgzd4wYp",
+      "text": "Moaning, from everywhere",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        29,
+        32
+      ],
+      "drawn": false,
+      "_id": "4Zzi4dVISmHCLKFW",
+      "text": "Screaming, from everywhere",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        33,
+        36
+      ],
+      "drawn": false,
+      "_id": "FFdmUlKBBlf2YFUJ",
+      "text": "Indistinct talking, Indeterminable",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        37,
+        40
+      ],
+      "drawn": false,
+      "_id": "jmCxGfK5cOkQlqck",
+      "text": "Laughing, Indeterminable",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        44
+      ],
+      "drawn": false,
+      "_id": "cB9WRpvRHgPzPXI3",
+      "text": "Scraping (Inside your head?)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        45,
+        48
+      ],
+      "drawn": false,
+      "_id": "48wr4tnzl1elplVm",
+      "text": "Rattling (Inside your head?)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        49,
+        52
+      ],
+      "drawn": false,
+      "_id": "29tSZO0sXGzw4Rhl",
+      "text": "Hissing, inside an object",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        53,
+        56
+      ],
+      "drawn": false,
+      "_id": "XnjeQk8b8mUbqw2A",
+      "text": "Watery sounds, inside an object",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        57,
+        60
+      ],
+      "drawn": false,
+      "_id": "T0CV237ONSCISOiK",
+      "text": "Jolting impacts, upstairs/ downstairs",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        64
+      ],
+      "drawn": false,
+      "_id": "XsVnfJ2BXQhWzSHw",
+      "text": "Thudding / thumping, upstairs/ downstairs",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        65,
+        68
+      ],
+      "drawn": false,
+      "_id": "pCAU1wAerZ0CnaD9",
+      "text": "Footsteps, from the water which is slowly filling up the room.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        69,
+        72
+      ],
+      "drawn": false,
+      "_id": "DyTTZlJ7GMzoN8Z1",
+      "text": "Breathing, from the water which is slowly filling up the room.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        73,
+        76
+      ],
+      "drawn": false,
+      "_id": "FXfEHL67rv5Ycy58",
+      "text": "Burrowing, from the next room",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        77,
+        80
+      ],
+      "drawn": false,
+      "_id": "dtF5nfzKSYexs2eV",
+      "text": "Growling, from the next room",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "_id": "DxdxGQI596Ur9UaG",
+      "text": "Slippery slopping, from somwhere distant",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "_id": "XdERu5xA435sNHoa",
+      "text": "Knocking, from somwhere distant",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        89,
+        92
+      ],
+      "drawn": false,
+      "_id": "wTBS2oMO3gicj74e",
+      "text": "Buzzing, from an object",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        93,
+        96
+      ],
+      "drawn": false,
+      "_id": "8Vg6DHje4IpbWr48",
+      "text": "Rumbling, from an object",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        97,
+        100
+      ],
+      "drawn": false,
+      "_id": "kVS7c5L4q1t7oePc",
+      "text": "Crying, right in your ear",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721555843949,
+    "modifiedTime": 1721572342181,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100"
+}

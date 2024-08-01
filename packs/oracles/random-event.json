@@ -1,0 +1,741 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Random Event",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_id": "5hVTnfTayu0s6jte",
+      "text": "Make a Spot Hidden roll, standard. If successful, you notice that someone is following you. You don’t give anything away just yet, but they’ve been shadowing you for several days. What are their motives? Could it be to do with what you’ve been investigating recently?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_id": "VNX8RYZG0rmKNGwD",
+      "text": "A friend of yours, a professor, gets in touch with you regarding a disturbing discovery he has made. He’s heard what you’ve been researching and has a warning.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_id": "jVGDN2W79qnxVSyP",
+      "text": "Late this night, when you go to bed, you hear a swish. Turning on the light, you see that a note has been slipped under your door. Unfolding it, you read the contents, which make your blood run cold... (interpret according to campaign).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "_id": "W2lngJbpzASdz7IL",
+      "text": "A nearby telephone rings. You feel an impulse to pick it up. You do, but at the other end all you hear is faint talking, as if the other person is many many miles away. It is whispering numbers.... co- ordinates?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "_id": "MVL0CCpRrh2TW8IN",
+      "text": "You meet another investigator, who coincidentally has been on the same trail as you and has some discoveries that she would like to share. How is it that you are both investigating the same thing? Anyway, no matter, the knowledge she has is crucial.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false,
+      "_id": "Ckl55sLQaLuX65OX",
+      "text": "You notice a learned-looking person watching you. Do you approach them? Their expression is one of fear mixed with curiosity, anxiety... as if they are burning to tell you some terrifying fact!",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false,
+      "_id": "Sm2rjPsPLqAWrKG6",
+      "text": "In a much-loved book, you discover a bookmark that you didn’t think you had before. It bears a strange symbol on it, which you can’t make sense of.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false,
+      "_id": "haASH3wlgdeFwGB7",
+      "text": "Reaching into your jacket pocket, you find (insert party number here) one way tickets to (insert exotic destination here), along with a note: “Don’t ask any questions. Just be on the boat. Trust me.”",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false,
+      "_id": "ZNhnzZIo3HaZhDpc",
+      "text": "An envelope arrives, addressed to you. Inside is a movie ticket, and a note: “Roxy Theatre, 11pm showing, The Tides of Fate, Row F, Seat 23.” What could this mean?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "_id": "i6jKFekWfleL1Xwb",
+      "text": "A persistent and foul odour is coming from somewhere... beneath your house? At least that’s where you think it’s coming from.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false,
+      "_id": "gOToV1qpGvd9VtDY",
+      "text": "A reporter has heard about your investigation and begins hounding you, asking all sorts of questions.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false,
+      "_id": "prwQ6BZNaoeOjacS",
+      "text": "A package arrives at your address. Inside is a dictionary, English to (insert made up or unknown language here). There is no sender address, nothing to indicate where it came from. You begin researching where this language comes from.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false,
+      "_id": "KkI62zZZ1J9sdHBG",
+      "text": "You find a bunch of notes, or they are mailed to you. What is the nature of them? Refer to random verb table for direction. They could be a few hastily-scrawled passages from a Mythos tome.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false,
+      "_id": "OTMOY3h6vrnZ0AKz",
+      "text": "You find an old tattered coat (on your landing, blowing up the street, stuck on a bush). Inspecting it, you find a note in one of its pockets.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        29,
+        30
+      ],
+      "drawn": false,
+      "_id": "3VsLjdzZUagjbatp",
+      "text": "In the news, you read that a meteorite has landed near your town. Curious, you begin making inquiries but after a day you realize that all mention of it has been erased, covered over, hushed up. Why?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        32
+      ],
+      "drawn": false,
+      "_id": "LqpQRRdgi4g1rVpU",
+      "text": "Investigators harassed by suspicious cop, possibly related to mystery or just an asshole cop.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        33,
+        34
+      ],
+      "drawn": false,
+      "_id": "Cq5uKoArKwaxWeeS",
+      "text": "You meet someone who shares a vital piece of information regarding the quest.c",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        35,
+        36
+      ],
+      "drawn": false,
+      "_id": "pKWPhSdVJinDJAGX",
+      "text": "You find a dropped purse or wallet. The contents are intriguing to say the least.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        37,
+        38
+      ],
+      "drawn": false,
+      "_id": "BWjteNFeR2X4gprA",
+      "text": "You find a map, discarded, or just a fragment of one. What you see arouses your curiosity.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        39,
+        40
+      ],
+      "drawn": false,
+      "_id": "8DSHrPZG4NTuJYz5",
+      "text": "In the hallway outside your apartment, or around your house, you notice seaweed. In fact, you begin noticing seaweed wherever you go. What is leaving this here or causing it to appear?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        42
+      ],
+      "drawn": false,
+      "_id": "NRWH9xV7oMycR30Y",
+      "text": "You notice that a mechanical hum has started coming from your basement. It starts at the same time every night, about 2am, and finishes at 5am. Will you go and investigate? What could it be?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        43,
+        44
+      ],
+      "drawn": false,
+      "_id": "MCLET2FCT20bSqaj",
+      "text": "A crow perches on your windowsill at the same time every day. It croaks strangely. After some time you realize that the crow is in fact talking, and it repeats the same word every time...",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        45,
+        46
+      ],
+      "drawn": false,
+      "_id": "69Zk9CfL3pafGX53",
+      "text": "You witness a crime and have a chance to stop the criminal. If you do, you may win the favour of the local constabulary, who might be able to help you out. Or is the crime some sort of trap engineered to lure you in?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        47,
+        48
+      ],
+      "drawn": false,
+      "_id": "1SRKNGAS5syT4TDX",
+      "text": "You see someone acting suspiciously. When they see you, they turn tail and run!",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        49,
+        50
+      ],
+      "drawn": false,
+      "_id": "m0a8W9wFBBMOptko",
+      "text": "A con-man has set up a table in the main street and is selling some truly bizarre items. He seems in a hurry to get rid of them as quickly as possible.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        52
+      ],
+      "drawn": false,
+      "_id": "nCwgtt5ZA1OP54DZ",
+      "text": "An old man comes out of a brick house, dumps some rubbish into a bin, kicks a cat and walks down the road. A minute later, an old man wearing the exact same clothes, with the exact same gait, and the exact same walking cane, dumps some rubbish into the bin, kicks a cat and walks down the road the same direction.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        53,
+        54
+      ],
+      "drawn": false,
+      "_id": "Oz3uh4iwa6aDwjab",
+      "text": "Your neighbour/the person in the next hotel room is acting very weird. They seem high on drugs all the time and incredibly paranoid. They also have some weird OCD habits which are causing you to wonder whether they are entirely sane.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        55,
+        56
+      ],
+      "drawn": false,
+      "_id": "MCUBakLQ2rWpeb2f",
+      "text": "Your dreams are haunted every night by a weird, rhythmic chanting in an unknown tongue. When you wake you can remember the words vividly, even though you have no idea what they mean.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        57,
+        58
+      ],
+      "drawn": false,
+      "_id": "oNy2Wcp2K1uVsO7B",
+      "text": "You meet another investigator who appears to be on the same trail as you. (Perhaps they phone you or turn up at your door). Are they trustworthy, or are they not all that they seem?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        59,
+        60
+      ],
+      "drawn": false,
+      "_id": "DmTvtdWw3ytViCv0",
+      "text": "There is a knocking at your door, but when you answer, no-one is there. You shut the door and head back inside. Ten minutes later, the knocking again... (In other situations - eg outdoors - perhaps you hear someone calling your name, but when you investigate, you can’t find them).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        62
+      ],
+      "drawn": false,
+      "_id": "QpNXLr6B7ss8xjnN",
+      "text": "While exploring a building, you discover a secret door. What secrets lie behind?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        63,
+        64
+      ],
+      "drawn": false,
+      "_id": "ppvPrdVZXaLYGXmA",
+      "text": "A street dog runs past with a human hand in its mouth, the ring finger bearing a large, jewelled ring.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        65,
+        66
+      ],
+      "drawn": false,
+      "_id": "pdKuIa7yi7XibI7s",
+      "text": "You notice a house on the next street over from yours which is all boarded up, the doors locked, the gate padlocked. A passerby informs you that this is the house of an aristocrat who hasn’t been seen in years.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        67,
+        68
+      ],
+      "drawn": false,
+      "_id": "u2pZX2dBm2k8ThSY",
+      "text": "All the rats have come flooding out of the sewers in droves. They appear absolutely manic, and have overrun the town. Something has scared them out of their home, perhaps...",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        69,
+        70
+      ],
+      "drawn": false,
+      "_id": "LXlnyYK4SvDtvZbN",
+      "text": "An NPC who has been helping you out has disappeared. Making Inquiries, you can find no trace of him, no history, nothing. It is as if he never even existed.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        72
+      ],
+      "drawn": false,
+      "_id": "b17VVOW50Ztm67dE",
+      "text": "Someone you have been following or investigating is arrested and detained for an unrelated crime. Or is it unrelated?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        73,
+        74
+      ],
+      "drawn": false,
+      "_id": "GckTP4M9lULMjCB8",
+      "text": "Your pet (if you have one) suddenly starts growling at you, showing its teeth. Previously this animal loved you, now it seems that the creature is repelled by you.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        75,
+        76
+      ],
+      "drawn": false,
+      "_id": "c866VIwDfLU3dJb3",
+      "text": "Your cat starts to hiss at the wall.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        77,
+        78
+      ],
+      "drawn": false,
+      "_id": "DT1yfTVnYACnHNtq",
+      "text": "Bugs begin massing on the walls in your apartment, but often they make strange patterns, like symbols.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        79,
+        80
+      ],
+      "drawn": false,
+      "_id": "RSxBmKN5GJk81W1u",
+      "text": "At the lights, you notice a running car, but no-one is at the wheel. In the backseat, perhaps, is a passenger, dead.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        82
+      ],
+      "drawn": false,
+      "_id": "5gbSZcq0xC5dTW2p",
+      "text": "While walking somewhere, or riding a train perhaps, you notice a woman slumped over the book she is reading. You watch for some time - she doesn’t appear asleep. Concerned, you go over and tap her on the shoulder. Her head lolls to one side, and you realize she is dead! Shocked, you happen to catch sight of the book - it is unlike anything you have seen, full of strange sigils, runes and disturbing images (a Mythos book).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        83,
+        84
+      ],
+      "drawn": false,
+      "_id": "CFdD6i6arwe4JWpq",
+      "text": "As you are walking, a large projectile lands beside you heavily, just missing you. You look up - did someone drop this on you from above, trying to kill you? If you are indoors, perhaps it was a falling chandelier or some other domestic item.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        85,
+        86
+      ],
+      "drawn": false,
+      "_id": "oawi6rxP8vGOv1yi",
+      "text": "Something happens that requires you to make a skill roll! Have a look at the Skills list on your Investigator sheet and figure out what it might be in the context of your story.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        87,
+        88
+      ],
+      "drawn": false,
+      "_id": "17pG9Akjfy3JJgHX",
+      "text": "Stormy weather closes in, thunder and lightning. When the lightning cracks, it illuminates the shape of a colossal, heart- stopping beast. Is that real, or are you merely hallucinating?",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        89,
+        90
+      ],
+      "drawn": false,
+      "_id": "O2d8xaAS0j70Y4ge",
+      "text": "You are overcome by terrifying thoughts. Awful visions of eldritch creatures who you can barely stand to imagine.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        92
+      ],
+      "drawn": false,
+      "_id": "wkeX5ZICRkPIAsbG",
+      "text": "The local police approach you, saying that you fit the description of someone who just killed their entire family and fled.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        93,
+        94
+      ],
+      "drawn": false,
+      "_id": "2zWvagzweAc06YKB",
+      "text": "You receive notification of the death of a relative or close friend.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        95,
+        96
+      ],
+      "drawn": false,
+      "_id": "KF10kB4EinXqJXQU",
+      "text": "One of your friends has been kidnapped. Investigating the place where they were abducted, you find signs of a struggle.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_id": "B3PlrfSsVife5wIg",
+      "text": "You find graffiti which might seem nonsensical to a passer-by, but makes terrible sense to you. The message will be a timely warning and will be directly relevant to the quest at hand. Someone like you has been here before, in the same situation as you, and has left their thoughts here. “Beware the _____, watch out for their _____” or something similar.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_id": "Pao7B2Q1Ie45rFjh",
+      "text": "You are attacked!",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "_id": "Hwo7PE3zBEdKqRYq",
+      "text": "A Mythos creature appears, terrifying to behold. (Use Q/A rolls to determine the nature of the beast and its current disposition). Also, if it makes no sense for it to be there, then perhaps it is an hallucination.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721559857166,
+    "modifiedTime": 1721572415860,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100"
+}

@@ -1,0 +1,240 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Danger",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        8
+      ],
+      "drawn": false,
+      "_id": "F9MrU06ZlHnuVlQF",
+      "text": "You are being stalked/followed by someone. A mysterious character who you have perhaps seen before, but perhaps not.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        16
+      ],
+      "drawn": false,
+      "_id": "Goqsa2wmUMNbdkaL",
+      "text": "You find a threatening note.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        25
+      ],
+      "drawn": false,
+      "_id": "OdKQoA2aYKJVvB7l",
+      "text": "You feel a threatening presence. It is tangible, a spirit, or something  malevolent nearby. The Verbs Table can add more detail here.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        26,
+        33
+      ],
+      "drawn": false,
+      "_id": "BSj9Oz0C8UqTNsJo",
+      "text": "Out of nowhere, you are assaulted by an unknown thug.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        34,
+        42
+      ],
+      "drawn": false,
+      "_id": "HEwrmyqw225gWPN7",
+      "text": "You receive a disturbing phone call or phone message. If these is appropriate, you either pick up or are related a piece of information, possibly by an NPC. Verbs Table to determine what.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        43,
+        51
+      ],
+      "drawn": false,
+      "_id": "4rUYofE1mDPMiEDu",
+      "text": "Some sort of bizarre affliction overtakes you.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        52,
+        60
+      ],
+      "drawn": false,
+      "_id": "Fqy4FrAcnKHQYuGE",
+      "text": "An old nemesis or problem from your past resurfaces. Relevance to your case can be deduced with Q/A rolls or consulting the Verbs table. Even if the problem is unconnected to the story, it may influence it.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        69
+      ],
+      "drawn": false,
+      "_id": "TXHOYeWW2z9gzyX9",
+      "text": "The weight of all you have discovered weighs down on you. Make a sanity roll if things have been bad. 0/1d4.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        70,
+        78
+      ],
+      "drawn": false,
+      "_id": "S790mQqJzIdjj1wk",
+      "text": "Your apartment/place of work has been tossed, searched. What were they looking for? Were you there when it happened.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        79,
+        87
+      ],
+      "drawn": false,
+      "_id": "hUmpsnzILm6XS9LV",
+      "text": "An attempt on your life.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        88,
+        97
+      ],
+      "drawn": false,
+      "_id": "XO8UxVp8y8rud7V2",
+      "text": "A friend is attacked severely / killed",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        98,
+        100
+      ],
+      "drawn": false,
+      "_id": "dLbBvYaSfJ5PAHhi",
+      "text": "You encounter a Mythos Creature. Consult Chapter 5 tables.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        100
+      ],
+      "drawn": false,
+      "_id": "FIJmjYDSTQqBwVZD",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        1,
+        100
+      ],
+      "drawn": false,
+      "_id": "T7UmD4MrIDveazsL",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        1,
+        100
+      ],
+      "drawn": false,
+      "_id": "VMNT4EUv6Tcw7u6v",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721554649284,
+    "modifiedTime": 1721572369880,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100"
+}

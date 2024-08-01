@@ -1,0 +1,172 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Verbs",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_id": "v83rea2lry7Qgohy",
+      "text": "0-99",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_id": "X5CXdGd2xrfBLQFm",
+      "text": "100-199",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_id": "qzdXiyrNK5DvRqWm",
+      "text": "200-299",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "_id": "05cySd9CwFeYxBNS",
+      "text": "300-399",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "_id": "TQCqsLl6q88pPr7M",
+      "text": "400-499",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_id": "3tf4j2vPNuB0hcVn",
+      "text": "Verbs (0-99)",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "F1VdmA9PtMIDl8Oe",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_id": "qiTN5KqtzEDjMvsK",
+      "text": "Verbs (100-199)",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "h5DOTaHwJtmFUOnm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_id": "omTLQglNeMrJi2el",
+      "text": "Verbs (200-299)",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "66KIDwKTKCMQWzcA",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "_id": "hfkOZ0kTIQlT8rDS",
+      "text": "Verbs (300-399)",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "JsVJwgKqvRl4IDEf",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "_id": "THRjgzqIAJrEjUpI",
+      "text": "Verbs (400-499)",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "4d9AjKnGWe6L20bX",
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721560554263,
+    "modifiedTime": 1721572430294,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d10"
+}

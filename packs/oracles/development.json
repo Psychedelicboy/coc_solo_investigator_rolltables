@@ -1,0 +1,317 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Development",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "_id": "QDXI7y2Nh0ROqNrt",
+      "text": "Self-help: You access your inner resources, perhaps related to your backstory. You feel a surge of inner resolve. Make a Sanity Roll, regaining 1d6 Sanity if successful, losing 1 Sanity if not.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        20
+      ],
+      "drawn": false,
+      "_id": "3bhe8gNumGxAu4U9",
+      "text": "You meet a friendly NPC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        30
+      ],
+      "drawn": false,
+      "_id": "Vtv2drxSHLsT5aIu",
+      "text": "Roll on Verbs table",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        40
+      ],
+      "drawn": false,
+      "_id": "XSqT0VcUn2IyFGvO",
+      "text": "Roll on Random Events Table",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        50
+      ],
+      "drawn": false,
+      "_id": "TFOgTfuIVZXjnntK",
+      "text": "You are met by a seemingly neutral PC. Example: A cop on the beat, a wandering local, an inquisitive child. The keyword here is seemingly. They probably are neutral, but possibly not. Perhaps they are secretly aiding you, or opposing you. You don’t know yet.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        60
+      ],
+      "drawn": false,
+      "_id": "Wol2qeZtjvL63i8Q",
+      "text": "Neutral event. Mundane life presents itself in some way. People go about their daily routines, blind to the events that you are witnessing.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false,
+      "_id": "Ta41jZenU2FvXHIj",
+      "text": "You find/observe/hear something that tests your Sanity. Make four rolls on the Verbs table, then refer to the Mythos Table to gauge the appropriate level of the event.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        80
+      ],
+      "drawn": false,
+      "_id": "jBkQ3H7vNUBWt6B1",
+      "text": "You meet a hostile NPC (roll on NPC tables, re-rolling for positive Keyword results).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "izf1t4vFPV96OUYc",
+      "text": "Something awful happens to you. Perhaps you are attacked, or captured, or fall victim to some heinous trap. Make four rolls on the Verbs table, interpreting negatively, then refer to the Mythos Table to gauge the appropriate level of the event.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_id": "NL5HbYBVtQoKBpp4",
+      "text": "An barefaced attempt on your life.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        21,
+        30
+      ],
+      "drawn": false,
+      "_id": "E0s0RM8b59pE0Y9M",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        31,
+        40
+      ],
+      "drawn": false,
+      "_id": "SuVmlehox90Ku4IY",
+      "text": "Random Event",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "StBwK0uBQLzQPf4U",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "JXWz2Wh5nvzUSH2g",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "Mw6R7T8OaePBoPyH",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "brCVtUkTGQ41Rr5X",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "oHWLrIjO2GKqi0bk",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false,
+      "_id": "DkwnvdQUkkgi97o5",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false,
+      "_id": "EE2nC5BBCa4Vkxb6",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false,
+      "_id": "ZUgrEJhAYcoq3MKc",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false,
+      "_id": "owLQ9MdYIy7aiiC2",
+      "text": "Verbs",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "SxOwxCD4KSkCbvAm",
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721553885210,
+    "modifiedTime": 1721572384770,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100"
+}

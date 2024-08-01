@@ -1,0 +1,69 @@
+{
+  "folder": "ZeIVFtKaV5E3Q8Nz",
+  "name": "Q/A Roll (Highly Likely)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        34
+      ],
+      "drawn": false,
+      "_id": "PRDtPeQa27Hslh5G",
+      "text": "No",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        35,
+        59
+      ],
+      "drawn": false,
+      "_id": "9h5szuQeLWmiAxF7",
+      "text": "Maybe",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        60,
+        100
+      ],
+      "drawn": false,
+      "_id": "1yYYQcyQDFjLE5ds",
+      "text": "Yes",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721566756884,
+    "modifiedTime": 1721566808644,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100 + 40"
+}

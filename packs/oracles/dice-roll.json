@@ -1,0 +1,114 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Dice Roll",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        30
+      ],
+      "drawn": false,
+      "_id": "MMMIeXWH1khAKMJq",
+      "text": "You hear something (Auditory Effect Table)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        60
+      ],
+      "drawn": false,
+      "_id": "p5OBKfRvoJO8JvBe",
+      "text": "You see something (Visual Effect Table)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        100
+      ],
+      "drawn": false,
+      "_id": "LBUZLoheGGASpIum",
+      "text": "Something happens (Random Event Table)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        30
+      ],
+      "drawn": false,
+      "_id": "TLFMX6xCso2Gln8K",
+      "text": "Auditory Effect",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "2xxNiFABr3YJvJgj",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        31,
+        60
+      ],
+      "drawn": false,
+      "_id": "OYkuxUzpLFqaLNJu",
+      "text": "Visual Effect",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "r8rv8FS0TIqNoUDZ",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        61,
+        100
+      ],
+      "drawn": false,
+      "_id": "BfjN388kWVmKZHyN",
+      "text": "Random Event",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "StBwK0uBQLzQPf4U",
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721554976452,
+    "modifiedTime": 1721572394290,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100"
+}

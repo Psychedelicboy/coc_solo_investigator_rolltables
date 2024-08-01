@@ -1,0 +1,177 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Story Direction",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "_id": "b6LF5OelRbJOCZWt",
+      "text": "Downtime Disturbance",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "xo7ugNIjRFPubYEl",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        21,
+        40
+      ],
+      "drawn": false,
+      "_id": "zvDMRIgHmHhV1TJr",
+      "text": "Development",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "UioqiMBceqwUUKF5",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        41,
+        60
+      ],
+      "drawn": false,
+      "_id": "w9gY3iWIJX3IVp6M",
+      "text": "Discovery",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "6gswZxpiuIX3d7DT",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        61,
+        80
+      ],
+      "drawn": false,
+      "_id": "aPARfHIHQUSbRDVx",
+      "text": "Danger",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "iD3uAOLpnU179ycJ",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        81,
+        100
+      ],
+      "drawn": false,
+      "_id": "x3Ge2ERCV0LusN9v",
+      "text": "Dice Roll",
+      "img": "icons/svg/d20-grey.svg",
+      "documentId": "3E03wE9aIggaXnqZ",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "text",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "_id": "8BzO0IP6aEsda1t8",
+      "text": "Downtime",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        21,
+        40
+      ],
+      "drawn": false,
+      "_id": "P39v3kwceUwqBSZp",
+      "text": "Development",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        41,
+        60
+      ],
+      "drawn": false,
+      "_id": "rsZosu3PlOi2oO7O",
+      "text": "Discovery",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        61,
+        80
+      ],
+      "drawn": false,
+      "_id": "4HkYE4hGfxxcS5vJ",
+      "text": "Danger",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        81,
+        100
+      ],
+      "drawn": false,
+      "_id": "y1WRMZKsU8T9PDqf",
+      "text": "Dice Roll",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721553628926,
+    "modifiedTime": 1721572425020,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100"
+}

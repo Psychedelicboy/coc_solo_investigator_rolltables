@@ -1,0 +1,54 @@
+{
+  "id": "coc_solo_investigator_rolltables",
+  "title": "Solo Investigator Rollable Tables for Call of Cthulhu 7e",
+  "description": "Rollable tables from the Solo Investigator Handbook. This module contains base oracles to facilitate solo play. For more info, tables and the rules on how to use these tables properly please support the creators of the book this is based on.",
+  "authors": [
+    {
+    "name": "SnobbishBastard"
+    }
+  ],
+  "packs":[
+    {
+      "name":"verbs",
+      "label":"Verbs",
+      "path":"./packs/verbs",
+      "type":"RollTable"
+    },
+    {
+      "name":"qa_rolls",
+      "label":"Q/A Rolls",
+      "path":"./packs/qa_rolls",
+      "type":"RollTable"
+    },
+    {
+      "name":"oracles",
+      "label":"Oracles",
+      "path":"./packs/oracles",
+      "type":"RollTable"
+    },
+  ],
+  "packFolders": [
+    {
+      "name":"COC: Solo Investigator Rollable Tables",
+      "sorting":"m",
+      "packs":["oracles"],
+      "folders": [
+        {
+          "name":"Q/A Rolls",
+          "sorting":"a",
+          "packs":[qa_rolls]
+        },
+        {
+          "name":"Verbs",
+          "sorting":"a",
+          "packs":["verbs"]
+        }
+      ],
+    },
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  }
+}

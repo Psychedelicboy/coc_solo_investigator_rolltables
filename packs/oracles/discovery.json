@@ -1,0 +1,167 @@
+{
+  "folder": "KLnxnYUswgPhxake",
+  "name": "Discovery",
+  "img": "shared-vision.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "_id": "wP0TUTX99nk4ylIV",
+      "text": "You discover a clue, or something directly related to the uncovering of  the mystery. Roll on Clue Table or Verbs table (your choice). With the context of your Skill Roll, this should  tell you what you have discovered.  (Roll d100) 1-10: Archaeology /11-20: Charm / 21-30: History / 31-40: Intimidate / 41-50: Listen / 51-60: Occult / 61-70: Persuade /71-80: Psychology / 81-90: Science / 91-100: Spot Hidden",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        20
+      ],
+      "drawn": false,
+      "_id": "137aZfrM8ZTAsd7f",
+      "text": "Through research/revelation/memory spark, you link two pieces of information you have learnt.  (Roll d100)  1-50: EDU / 51-100: INT",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        30
+      ],
+      "drawn": false,
+      "_id": "Rye97i6pvhUhuZdE",
+      "text": "Someone slips you/ leaves you an note pointing you in the right direction.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        40
+      ],
+      "drawn": false,
+      "_id": "E9S2Mxu1RdkpuWH5",
+      "text": "You observe/are caught up in some occurrence directly relating to what you are investigating.  1-5: Str / 6-10: Con / 11-15: Dex / 16- 20: Int / 21-25: Pow / 26-30: Anthropology /31-35: Charm / 36- 40: Disguise / 41-45: Fast Talk / 46- 50: History / 51-55: Intimidate / 56- 60: Law / 61-65: Navigate / 66-70: Occult / 71-75: Persuade / 76-80: Psychology / 81-85: Spot Hidden / 86-90: Science / 91-95: Sleight of Hand / 96-100: Track",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        50
+      ],
+      "drawn": false,
+      "_id": "7R7KQDymFaUoVsqq",
+      "text": "A news report relating to your case. 1-20: Int Roll / 21-40: History / 41-60: Psychology / 61-80: Science / 81-100: Edu",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        60
+      ],
+      "drawn": false,
+      "_id": "fZ0gM5927wH4SCtE",
+      "text": "You overhear someone discussing the thing you are researching. It may be indirectly related, but the discussion is definitely of interest to you. Or are you just hearing things? Make a Q/A roll or use Rumours Table .  1-25: Disguise / 26-50: Listen / 51-75: Language / 76-100: Psychoanalysis",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false,
+      "_id": "KiTVMr3ArcblcWTK",
+      "text": "Your memory is sparked regarding something you had heard regarding an aspect of the case, some time ago.  1-50: History / 51-100: Int",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        80
+      ],
+      "drawn": false,
+      "_id": "FOKVFi4wq9nIf3Sp",
+      "text": "You run into someone, possibly a relative of someone who fell victim to this mystery. (Roll on NPC tables). This has reached further than you previously thought...  1-20: Charm / 21-40: Int / 41- 60: Persuade / 61-80: Psychology / 81-100: Fast Talk",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "F3pcfLzsGmH0fh7s",
+      "text": "Someone with knowledge of the case comes to you with a warning. Intelligence Roll",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_id": "YSiouEFdBCmtG4pC",
+      "text": "Something you previously presumed about the case turns out to be wrong. The truth regarding this aspect of the case is revealed.   1-25: Edu / 25-50: Int / 51-75: History / 76-100: Psychology",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "coc",
+      "system": "CoC7",
+      "coreVersion": "12.328",
+      "systemVersion": "0.10.19"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.328",
+    "systemId": "CoC7",
+    "systemVersion": "0.10.19",
+    "createdTime": 1721554187130,
+    "modifiedTime": 1721572401738,
+    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
+  },
+  "formula": "1d100"
+}
