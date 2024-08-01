@@ -10,25 +10,25 @@
     "name": "Paul Bimler"
     }
   ],
-  "packs":[
+  "packs": [
     {
-      "name":"verbs",
-      "label":"Verbs",
-      "path":"./packs/verbs",
-      "type":"RollTable"
+      "name": "verbs",
+      "label": "Verbs",
+      "path": "./packs/verbs",
+      "type": "RollTable"
     },
     {
-      "name":"qa_rolls",
-      "label":"Q/A Rolls",
-      "path":"./packs/qa_rolls",
-      "type":"RollTable"
+      "name": "qa_rolls",
+      "label": "Q/A Rolls",
+      "path": "./packs/qa_rolls",
+      "type": "RollTable"
     },
     {
-      "name":"oracles",
-      "label":"Oracles",
-      "path":"./packs/oracles",
-      "type":"RollTable"
-    },
+      "name": "oracles",
+      "label": "Oracles",
+      "path": "./packs/oracles",
+      "type": "RollTable"
+    }
   ],
   "packFolders": [
     {
@@ -39,15 +39,15 @@
         {
           "name":"Q/A Rolls",
           "sorting":"a",
-          "packs":[qa_rolls]
+          "packs": "[qa_rolls]"
         },
         {
           "name":"Verbs",
           "sorting":"a",
           "packs":["verbs"]
         }
-      ],
-    },
+      ]
+    }
   ],
   "version": "1.0.0",
   "compatibility": {
