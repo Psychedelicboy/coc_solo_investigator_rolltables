@@ -94,21 +94,5 @@
   ],
   "replacement": true,
   "displayRoll": true,
-  "flags": {
-    "exportSource": {
-      "world": "coc",
-      "system": "CoC7",
-      "coreVersion": "12.328",
-      "systemVersion": "0.10.19"
-    }
-  },
-  "_stats": {
-    "coreVersion": "12.328",
-    "systemId": "CoC7",
-    "systemVersion": "0.10.19",
-    "createdTime": 1721554976452,
-    "modifiedTime": 1721572394290,
-    "lastModifiedBy": "C1FqhRYA3vvqjbRC"
-  },
   "formula": "1d100"
 }
